@@ -1,0 +1,9 @@
+{
+	"PREFIX": "§cRush§4Unity §8» §7",
+	"localeCode": "en_US",
+	"name": "English",
+
+	"values": {
+		"languageapi.reloaded": "§aThe §eLanguageAPI §awas successfully reloaded§7!"
+	}
+}
