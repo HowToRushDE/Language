@@ -7,8 +7,8 @@
 		"languageapi.reloaded": "§r§aThe §eLanguageAPI §awas successfully reloaded§7!",
 		"languageapi.ui.title.select": "§eSelect your Language",
 		"languageapi.ui.text.select": "§eSelect your Language§7!",
-		"languageapi.updated": "§eSelect your Language§7!",
+		"languageapi.updated": "§eYou have updated your language successfully§7!",
 		
-		"lobbysystem.selected.particle": "§aYou selected the§e {} §aparticles§7!"
+		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!"
 	}
 }
